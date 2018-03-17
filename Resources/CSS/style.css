@@ -48,3 +48,20 @@ a {
   text-decoration: underline;
   color: seashell;
 }
+
+/* Mission section styling */
+
+#Mission {
+  position: relative;
+  top: 69px;
+  background-image: url("../Images/mission.jpg");
+  height: 700px;
+  width: 1200px;
+  margin: auto;
+  align-items: center;
+}
+
+#Mission .content {
+  background-color: black;
+  width: 1200px;
+}
