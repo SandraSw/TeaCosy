@@ -120,4 +120,16 @@ a {
   margin: 15px 20px;
 }
 
+/* Contact styling */
+
+.contact {
+  height: 200px;
+  width: 100%;
+}
+
 /* Footer styling */
+
+footer {
+  text-align: left;
+  margin-left: 20px;
+}
