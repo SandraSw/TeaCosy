@@ -85,17 +85,6 @@ a {
   margin: auto;
 }
 
-#Tea .container {
-
-}
-
-#Tea .content {
-  display: block;
-  padding: 5px;
-  align-items: center;
-  justify-content: center;
-}
-
 .tea img {
   display: block;
   width: 300px;
@@ -109,3 +98,26 @@ a {
   padding: 5px;
   font-weight: bold;
 }
+
+/* Locations section styling */
+
+#Locations {
+  width: 1200px;
+  height: 500px;
+  margin: auto;
+  background-image: url("../Images/locations.jpg");
+  align-content: center;
+  flex-direction: column;
+}
+
+.address {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  background-color: black;
+  opacity: 1;
+  width: 300px;
+  margin: 15px 20px;
+}
+
+/* Footer styling */
