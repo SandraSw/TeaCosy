@@ -63,7 +63,7 @@ a {
 
 /* Mission section styling */
 
-#Mission {
+#mission {
   position: relative;
   top: 69px;
   background-image: url("../Images/mission.jpg");
@@ -73,14 +73,14 @@ a {
   align-items: center;
 }
 
-#Mission .content {
+#mission .content {
   background-color: black;
   width: 1200px;
 }
 
 /* Tea section styling */
 
-#Tea {
+#tea {
   width: 1000px;
   height: 700px;
   padding-top: 140px;
@@ -103,7 +103,7 @@ a {
 
 /* Locations section styling */
 
-#Locations {
+#locations {
   width: 1200px;
   height: 500px;
   margin: auto;
@@ -126,7 +126,7 @@ a {
 
 .contact {
   height: 200px;
-  width: 100%;
+  width: 1200px;
   margin: auto;
 }
 
